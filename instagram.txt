@@ -71,3 +71,4 @@ instagram.fcfc2-1.fna.fbcdn.net
 i.instagram.com
 instagram.c10r.instagram.com
 gateway.instagram.com
+graph-fallback.instagram.com
