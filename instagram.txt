@@ -66,3 +66,8 @@
 0.0.0.0 i-fallback.instagram.com
 0.0.0.0 instagram.ffln5-1.fna.fbcdn.net
 0.0.0.0 gateway.instagram.com
+instagram.fcfc2-1.fna.fbcdn.net
+instagram.fcfc2-1.fna.fbcdn.net
+i.instagram.com
+instagram.c10r.instagram.com
+gateway.instagram.com
