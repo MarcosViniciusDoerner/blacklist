@@ -2098,3 +2098,4 @@
 0.0.0.0 zh-tw.facebook.com0.facebook.com
 chat-e2ee-ig-p42.c10r.facebook.com
 dgw.c10r.facebook.com
+chat-e2ee-ig-p42.c10r.facebook.com
