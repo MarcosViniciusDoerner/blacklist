@@ -72,3 +72,4 @@ i.instagram.com
 instagram.c10r.instagram.com
 gateway.instagram.com
 graph-fallback.instagram.com
+star.fallback.c10r.instagram.com
