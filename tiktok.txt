@@ -1,5 +1,5 @@
-   anúncios. tiktok . com
-   análise. tiktok .com
+   anÃºncios. tiktok . com
+   anÃ¡lise. tiktok .com
    log-va. tiktok v.com
    segunda-feira. tiktok v.com
    seg. tiktok v.com
@@ -15,7 +15,7 @@
    p16-sign-useast2a. tiktok cdn.com
    v39-dynamic-gig3a. tiktok cdn.com
    log17-normal-useast1a. tiktok v.com
-   localização-v6-va. tiktok v.com
+   localizaÃ§Ã£o-v6-va. tiktok v.com
    ru6a. tiktok cdn.com
    api. tiktok v.com
    api21-h2. tiktok v.com
@@ -167,9 +167,9 @@
    . tiktok v.com.edgesuite.net
    seg. tiktok v.com.edgesuite.net
    segunda-feira. tiktok v.com.edgesuite.net
-   xlog. Anúncios tiktok v.com.edgesuite.net
-   . análise do tiktok .com
-   .   anúncios de teste tiktok .com
+   xlog. AnÃºncios tiktok v.com.edgesuite.net
+   . anÃ¡lise do tiktok .com
+   .   anÃºncios de teste tiktok .com
    . aplicativo tiktok .com
    . tiktok v.com
    dm16. tiktok v.com
@@ -192,7 +192,7 @@
    mcs-va-useast2a. tiktok v.com
    segunda-feira. tiktok v.com
    rtlog. tiktok v.com
-   sdfp-va. verificação tiktok v.com
+   sdfp-va. verificaÃ§Ã£o tiktok v.com
    -va. tiktokv. com
    xlog. tiktok v.com
    xlog-va. tiktok v.com
@@ -226,8 +226,8 @@
    tiktok v.com.cdn.cloudflare.net
    api-t3. atividade tiktok v.com.cdn.cloudflare.net
    tiktok .com.edgekey.net
-   . Anúncios tiktok .com.edgekey.net
-   . análise tiktok .com.edgekey.net
+   . AnÃºncios tiktok .com.edgekey.net
+   . anÃ¡lise tiktok .com.edgekey.net
    . tiktok .com.edgekey.net
    primeiros passos. tiktok .com.edgekey.net
    tiktok v.com.edgekey.net
@@ -332,10 +332,10 @@
    imapi-16. tiktok v.com.edgesuite.net
    sdfp-va. tiktok v.com.edgesuite.net
    v16. tiktok v.com.edgesuite.net
-   v16-up. verificação tiktok v.com.edgesuite.net
+   v16-up. verificaÃ§Ã£o tiktok v.com.edgesuite.net
    -va. tiktok v.com.edgesuite.net
-   verificação16-normal-c-useast1a. tiktok v.com.edgesuite.net
-   verificação16-normal-c-useast2a. tiktok v.com.edgesuite.net
+   verificaÃ§Ã£o16-normal-c-useast1a. tiktok v.com.edgesuite.net
+   verificaÃ§Ã£o16-normal-c-useast2a. tiktok v.com.edgesuite.net
    verify-sg. tiktok v.com.edgesuite.net
    www. tiktok v.com.edgesuite.net
    xlog-va. tiktok v.com.edgesuite.net
@@ -368,22 +368,22 @@
    api-m. tiktok .com
    api-t. artista tiktok .com
    . artistas do tiktok .com
-   . negócio tiktok .com
+   . negÃ³cio tiktok .com
    . carreiras tiktok .com
    . tiktok .
    com cc. tiktok .com
    creatormarketplace. hub de dados tiktok .com
    . Desenvolvedores do tiktok .com
    . Efeito tiktok .com
-   . Experiência tiktok .com
+   . ExperiÃªncia tiktok .com
    . tiktok .com
    sinta-se bem-api. tiktok .com
-   começar. login tiktok .com
-   . mídia tiktok .com
+   comeÃ§ar. login tiktok .com
+   . mÃ­dia tiktok .com
    . tiktok .com
    meteoro. tiktok .com
-   mg. músico tiktok .com
-   . redação tiktok .com
+   mg. mÃºsico tiktok .com
+   . redaÃ§Ã£o tiktok .com
    . tiktok .com
    open-api. tiktok      .com
    16 anos. Destaque do tiktok .com
@@ -688,17 +688,17 @@
    search21-normal-c-alisg. tiktok v.com
    tnc16-alisg. tiktok v.com
    tnc16-useast1a. tiktok v.com
-   indisponível. tiktok v.com
+   indisponÃ­vel. tiktok v.com
    v. tiktok v.com
    v16. tiktok v.com
    v16-up. tiktok v.com
    vcs-sg. tiktok v.com
-   vcs-va. verificação tiktok v.com16
+   vcs-va. verificaÃ§Ã£o tiktok v.com16
    -normal-c-useast1a. tiktok v.com
-  verificação16-normal-c-useast2a. tiktok v.com
+  verificaÃ§Ã£o16-normal-c-useast2a. tiktok v.com
    verificar-sg. tiktok v.com
    video-sg. tiktok v.com
-   vídeo-va. webcast tiktok v.com
+   vÃ­deo-va. webcast tiktok v.com
    . tiktok v.com
    webcast-useast1a. tiktok v.com
    webcast-useast2a. tiktok v.com
@@ -1173,7 +1173,7 @@
    effect-api-va-useast2a. tiktok .com
    datahub-useast2a. tiktok .com
    vm-useast2a. tiktok .com
-   promoção-useast2a. tiktok .com
+   promoÃ§Ã£o-useast2a. tiktok .com
    desenvolvedor-useast2a. tiktok .com
    s16-ies-useast2a. tiktok .com
    desenvolvedores-useast2a. tiktok .com
@@ -1190,21 +1190,21 @@
    webapp-va. tiktok .com
    mcs-va. tiktok .com
    video-tcs-va. tiktok .com
-   anúncios-va. tiktok .com
+   anÃºncios-va. tiktok .com
    im-ws-va. tiktok .com
    tv-va. tiktok .com
    webtv-va. tiktok .com
    atividade-va. tiktok .com
    adsinsightslab. tiktok .com
-   v16-web. música tiktok .com
+   v16-web. mÃºsica tiktok .com
    . tiktok .com
    ID de afiliado. tiktok .com
    aff-id. tiktok .com
    pombo-id. tiktok .com
    ID da loja. tiktok .com
    ID do vendedor. tiktok .com
-   link.e. serviço tiktok .com
-   .   serviço de anúncios tiktok .com
+   link.e. serviÃ§o tiktok .com
+   .   serviÃ§o de anÃºncios tiktok .com
  . tiktok .com
    o16.ptr9230.service. tiktok .com
    o23.ptr4260.service. tiktok .com
@@ -1213,7 +1213,7 @@
    url4153.service. tiktok .com
    o20.ptr6684.service. tiktok .com
    o24.ptr8276.service. tiktok .
- com  o18.ptr8067.serviço. tiktok .com
+ com  o18.ptr8067.serviÃ§o. tiktok .com
    o27.ptr1078.service. tiktok .com
    i.service. tiktok .com
    o3.ptr1888.i.service. tiktok .com
@@ -1244,17 +1244,17 @@
    vendedor-th. tiktok .com
    ads-api. tiktok .com
    business-api. tiktok .com
-   anúncios-imapi. tiktok .com
+   anÃºncios-imapi. tiktok .com
    shop-uk. tiktok .com
    vendedor-reino unido. tiktok .com
    webcast-m. tiktok .com
-   anúncios-crm. formulário da web tiktok .com
+   anÃºncios-crm. formulÃ¡rio da web tiktok .com
    . tiktok .com
    plataforma aberta. tiktok .com
    ttlive-i18n. tiktok .com
    webapp-cn. tiktok .com
    aberto. tiktok .com
-   em.   atribuição analítica de tiktok .com
+   em.   atribuiÃ§Ã£o analÃ­tica de tiktok .com
  . tiktok .com
    vendedor-vn. tiktok .com
    oec-sso. tiktok .com
@@ -1265,16 +1265,16 @@
    . Vendedor tiktok .com
    . Desenvolvedor tiktok .com
    . tiktok .com
-   livecenter. descoberta automática tiktok .com
-   . tendências do tiktok .com
-   . notificações do tiktok .com
-   . Sugestões do tiktok .com
-   .   dicas de negócios tiktok .com
+   livecenter. descoberta automÃ¡tica tiktok .com
+   . tendÃªncias do tiktok .com
+   . notificaÃ§Ãµes do tiktok .com
+   . SugestÃµes do tiktok .com
+   .   dicas de negÃ³cios tiktok .com
  . tiktok .com
    datahubops. tiktok .com
    em5348.carreiras. Parceiros do tiktok .com
    . tiktok .com
-   nós. tiktok .com
+   nÃ³s. tiktok .com
    analytics.us. tiktok .com
    mcs.us. tiktok .com
    webcast-t. conta tiktok .com
@@ -1299,7 +1299,7 @@
    . tiktok .com
    test-business-useast2a. tiktok .com
    carrierflow-va. tiktok .com
-   aff. Tendências do tiktok .com
+   aff. TendÃªncias do tiktok .com
    . tiktok .com
    carrierflow-sg. tiktok .com
    cc-test. tiktok .com
@@ -2553,10 +2553,10 @@
    abtest-va- tiktok .byteoversea.com
    abtest-va- tiktok .byteoversea.com.edgesuite.net
    atividade. atividade tiktok .com
-   . Anúncios tiktok .com.edgekey.net
-   . Anúncios tiktok .com
-   . tiktokAnálise de .com.edgekey.net
-   . análise do tiktok .com
+   . AnÃºncios tiktok .com.edgekey.net
+   . AnÃºncios tiktok .com
+   . tiktokAnÃ¡lise de .com.edgekey.net
+   . anÃ¡lise do tiktok .com
    . tiktok .com.edgekey.net
    api-core-va. tiktok v.com
    api-core-va. tiktok v.com.edgesuite.net
@@ -2672,7 +2672,7 @@
    bkbd-awsjp16-up-va. tiktok cdn.com
    bkbd-awsjp16-up-va. tiktok cdn.com.edgesuite.net
    bkbd-maliva16-up-va. tiktok cdn.com
-   bkbd-maliva16-up-va. negócio tiktok cdn.com.edgesuite.net
+   bkbd-maliva16-up-va. negÃ³cio tiktok cdn.com.edgesuite.net
    . carreiras tiktok .com
    . carreiras tiktok .com
    . tiktok .com.edgesuite.net
@@ -2693,7 +2693,7 @@
    dm16-va. tiktok v.com.edgekey.net
    dm16. tiktok v.com
    dm16. efeito tiktok v.com.edgekey.net
-   . Experiência tiktok .com
+   . ExperiÃªncia tiktok .com
    . tiktok .com
    sinta-se bem-api. tiktok .com
    flv-l11. tiktok cdn.liveplay.myqcloud.com
@@ -2708,7 +2708,7 @@
    gecko16-normal-c-useast2a. tiktok v.com
    gecko16-normal-c-useast2a. tiktok v.com.edgesuite.net
    primeiros passos. tiktok .com
-   começar. tiktok .com.edgekey.net
+   comeÃ§ar. tiktok .com.edgekey.net
    hls-l11. tiktok cdn.liveplay.myqcloud.com
    ib. tiktok v.com
    ichannel-va. tiktok v.com
@@ -2750,15 +2750,15 @@
    m. tiktok . com
    m. tiktok .com.edgesuite.net
    mcs-va-useast2a. tiktok v.com
-   mcs-va.   mídia tiktok v.com
+   mcs-va.   mÃ­dia tiktok v.com
  . tiktok .com
    meteoro. tiktok .com
    mg. tiktok .com
    segunda-feira. tiktok v.com
    segunda-feira. tiktok v.com.edgesuite.net
    seg. tiktok v.com
-   seg. músico tiktok v.com.edgesuite.net
-   . redação tiktok .com
+   seg. mÃºsico tiktok v.com.edgesuite.net
+   . redaÃ§Ã£o tiktok .com
    . tiktok .com
    open-api. tiktok .com
    open16-va. tiktok v.com
@@ -2947,7 +2947,7 @@
  tiktok.com   . tiktok .com.edgesuite.net
    t. tiktok.com t
    . tiktok .com.edgesuite.net
-   anúncios de teste. tiktok .com
+   anÃºncios de teste. tiktok .com
  tiktok -core-lb-maliva-useast2a.byteoversea.net
  tiktok -core-lb-maliva.byteoversea.net
  tiktok -lb-alisg.byteoversea.net
@@ -3042,7 +3042,7 @@
    tos-useast2a16-up. tiktok cdn.com.edgesuite.net
    tos-useast2a19-up. tiktok cdn.com
    tos-useast2a21-up. tiktok cdn.com
-   indisponível. tiktok v.com
+   indisponÃ­vel. tiktok v.com
    v-all-sg. tiktok cdn.com
    v-edgecast. tiktok cdn.com
    v-edgecast. tiktok cdn.com.bytewlb.akadns.net
@@ -3123,17 +3123,17 @@
    vas. tiktok cdn.com
    vcs-sg. tiktok v.com
    vcs-sg. tiktok v.com.edgekey.net
-   vcs-va. verificação tiktok v.com
-   -va. verificação tiktok v.com
+   vcs-va. verificaÃ§Ã£o tiktok v.com
+   -va. verificaÃ§Ã£o tiktok v.com
    -va. tiktok v.com.edgesuite.net
-   verificação16-normal-c-useast1a. verificação tiktok v.com16
+   verificaÃ§Ã£o16-normal-c-useast1a. verificaÃ§Ã£o tiktok v.com16
    -normal-c-useast1a. tiktok v.com.edgesuite.net
-   verificação16-normal-c-useast2a. verificação tiktok v.com16
+   verificaÃ§Ã£o16-normal-c-useast2a. verificaÃ§Ã£o tiktok v.com16
    -normal-c-useast2a. tiktok v.com.edgesuite.net
    verify-sg. tiktok v.com
    verificar-sg. tiktok v.com.edgesuite.net
    video-sg. tiktok v.com
-   vídeo-va. tiktok v.com
+   vÃ­deo-va. tiktok v.com
    vm. tiktok .
    com vm. tiktok .com.edgesuite.net
    vt. tiktok .com
@@ -3259,3 +3259,4 @@
    video-useast5. tiktok v.com
    webcast16-normal-useast5.us. tiktok v.com
    webcast19-normal-useast5.us. tiktok v.com
+   
