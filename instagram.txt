@@ -73,3 +73,11 @@ instagram.c10r.instagram.com
 gateway.instagram.com
 graph-fallback.instagram.com
 star.fallback.c10r.instagram.com
+graph.facebook.com
+chat-e2ee.facebook.com
+edge-mqtt-fallback.facebook.com
+star.fallback.c10r.facebook.com
+graph.instagram.com
+gateway.instagram.com
+www.instagram.com
+instagram.c10r.instagram.com
