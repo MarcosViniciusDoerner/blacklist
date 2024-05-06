@@ -3271,13 +3271,14 @@
    rtlog22-normal-useast1a.tiktokv.com
    pitaya-task-va.tiktokv.com.bytewlb.akadns.net
    p16-sign-useast2a.tiktokcdn.com
-	p16-amd-va.tiktokcdn.com
-	p19-sign.tiktokcdn-us.com
-	v58.tiktokcdn.com
+   p16-amd-va.tiktokcdn.com
+   p19-sign.tiktokcdn-us.com
+   v58.tiktokcdn.com
    libra22-normal-useast1a.tiktokv.com
-	pitaya-va.tiktokv.com
+   pitaya-va.tiktokv.com
    log22-normal-useast1a.tiktokv.com
    frontier-va.tiktokv.com
-	webcast19-normal-c-useast1a.tiktokv.com
+   webcast19-normal-c-useast1a.tiktokv.com
    api22-normal-c-useast1a.tiktokv.com
    api22-core-c-useast1a.tiktokv.com
+   gecko31-normal-useast1a.tiktokv.com
