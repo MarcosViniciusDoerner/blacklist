@@ -2099,3 +2099,16 @@
 chat-e2ee-ig-p42.c10r.facebook.com
 dgw.c10r.facebook.com
 chat-e2ee-ig-p42.c10r.facebook.com
+mqtt.fallback.c10r.facebook.com
+chat-e2ee.c10r.facebook.com
+star.c10r.facebook.com
+web.facebook.com
+z-p42-chat-e2ee-ig.facebook.com
+www.facebook.com
+connect.facebook.net
+edge-mqtt.facebook.com
+b-graph-fallback.facebook.com
+b-graph.facebook.com
+lookaside.facebook.com
+gateway.facebook.com
+chat-e2ee-mini.facebook.com
