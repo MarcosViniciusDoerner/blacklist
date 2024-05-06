@@ -3269,4 +3269,5 @@
    api19-normal-c-useast1a.tiktokv.com
    api19-core-c-useast1a.tiktokv.com
    rtlog22-normal-useast1a.tiktokv.com
-   
+   pitaya-task-va.tiktokv.com.bytewlb.akadns.net
+   p16-sign-useast2a.tiktokcdn.com
