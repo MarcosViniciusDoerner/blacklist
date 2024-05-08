@@ -85,3 +85,8 @@ graph.instagram.com
 i.instagram.com
 gateway.instagram.com
 instagram.fbfh1-1.fna.fbcdn.net
+gateway.instagram.com
+scontent-fallback.cdninstagram.com
+graph.instagram.com
+i.instagram.com
+instagram.c10r.instagram.com
