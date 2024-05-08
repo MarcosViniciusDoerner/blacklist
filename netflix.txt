@@ -30,3 +30,4 @@ android-appboot.netflix.com
 logs.netflix.com
 android-appboot.netflix.com
 android-appboot.netflix.com
+netflix.com/login
