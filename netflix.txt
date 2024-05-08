@@ -8,3 +8,7 @@ nflxvideo.net
 ae.nflximg.net
 www.netflix.com
 web.prod.ftl.netflix.com
+ios.prod.us-east-1.internal.dradis.netflix.com
+appboot.us-east-1.origin.prodaa.netflix.com
+appboot.netflix.com
+logs.dradis.netflix.com
