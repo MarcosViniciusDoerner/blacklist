@@ -2132,3 +2132,11 @@ z-p42-chat-e2ee-ig.facebook.com
 web.facebook.com
 lookaside.facebook.com
 chat-e2ee-mini.facebook.com
+chat-e2ee.c10r.facebook.com
+star.c10r.facebook.com
+star.fallback.c10r.facebook.com
+facebooklogin.intelbras.com.br
+chat-e2ee.facebook.com
+edge-mqtt.facebook.com
+connect.facebook.net
+z-p42-chat-e2ee-ig.facebook.com
