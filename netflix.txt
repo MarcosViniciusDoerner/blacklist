@@ -27,3 +27,6 @@ ios.prod.http1.netflix.com
 prod.http1.dradis.netflix.com
 android.prod.cloud.netflix.com
 android-appboot.netflix.com
+logs.netflix.com
+android-appboot.netflix.com
+android-appboot.netflix.com
