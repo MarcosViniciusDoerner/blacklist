@@ -31,3 +31,11 @@ logs.netflix.com
 android-appboot.netflix.com
 android-appboot.netflix.com
 netflix.com/login
+ios.ngp.prod.cloud.netflix.com
+appboot.netflix.com
+ios.prod.cloud.netflix.com
+mobile-ixanycast.ftl.netflix.com
+mobile.prod.dradis.netflix.com
+appboot.dradis.netflix.com
+logs.dradis.netflix.com
+www.netflix.com
