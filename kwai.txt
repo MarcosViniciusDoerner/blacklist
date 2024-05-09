@@ -63,3 +63,14 @@ az3-api-akpro.kwaipros.com
 az3-api-akpro.kwai-pro.com
 g-ulog.sg.kwai-pro.com
 gdfp.kwai-pro.com
+tx-br-pic.kwai.net
+sixinpic.kwai-pro.com
+klink.kwai-pro.com
+aws-static.kwai.net
+az3-api-txpro.kwai-pro.com
+az3-api-akpro.kwai-pro.com
+g-gdfp.kwai-pro.com
+az3-api-akpro.kwaipros.com
+aws2-br-pic.kwai.net
+k-ulog.kwai-pro.com
+cloudflare-br-pic.kwai.net
