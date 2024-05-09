@@ -1,0 +1,9 @@
+media.fcfc2-1.fna.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+chat.cdn.whatsapp.net
+g-fallback.whatsapp.net
+media-gru2-1.cdn.whatsapp.net
+web.whatsapp.com
+dit.whatsapp.net
+g.whatsapp.net
+wa2da43aa1-gqytamrqgyztimrv.snr.whatsapp.net
