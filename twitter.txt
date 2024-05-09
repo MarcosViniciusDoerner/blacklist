@@ -24,3 +24,32 @@
 0.0.0.0 www.twitter.com
 0.0.0.0 www.twitter.com.au
 0.0.0.0 x.com
+t.me
+abs.twimg.com
+video.twimg.com
+api-44-0-0.twitter.com
+api-0-4-0.twitter.com
+dualstack.video.twitter.map.fastly.net
+api-46-0-0.twitter.com
+api-stream.twitter.com
+api-0-4-2.twitter.com
+probe-t.twitter.com
+probe.twitter.com
+dualstack.twimg.twitter.map.fastly.net
+s.twitter.com
+analytics.twitter.com
+tpop-api.twitter.com
+api.twitter.com
+api-30-0-0.twitter.com
+api-38-0-0.twitter.com
+api-2-0-0.twitter.com
+api-32-0-0.twitter.com
+api-20-0-0.twitter.com
+dc-api.twitter.com
+a1931.dscgi3.akamai.net
+iphone-ld.apple.com
+api-26-0-0.twitter.com
+msd1-api.twitter.com
+api-0-5-0.twitter.com
+api-0-4-4.twitter.com
+api-37-0-0.twitter.com
