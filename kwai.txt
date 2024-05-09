@@ -51,3 +51,15 @@ k-ulog.kwai-pro.com
 cloudflare-br-pic.kwai.net
 g-gdfp.kwai-pro.com
 polaris-static.kwai.net
+k-ulog.kwai-pro.com
+sixinpic.kwai-pro.com
+klink.kwai-pro.com
+az3-api-txpro.kwai-pro.com
+aws-static.kwai.net
+tx-br-pic.kwai.net
+cloudflare-br-pic.kwai.net
+aws2-br-pic.kwai.net
+az3-api-akpro.kwaipros.com
+az3-api-akpro.kwai-pro.com
+g-ulog.sg.kwai-pro.com
+gdfp.kwai-pro.com
