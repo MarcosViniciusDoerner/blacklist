@@ -74,3 +74,4 @@ az3-api-akpro.kwaipros.com
 aws2-br-pic.kwai.net
 k-ulog.kwai-pro.com
 cloudflare-br-pic.kwai.net
+ak-br-pic.kwai.net
