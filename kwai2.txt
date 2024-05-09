@@ -1,0 +1,11 @@
+aws-static.kwai.net
+aws2-br-pic.kwai.net
+az3-api-akpro.kwai-pro.com
+az3-api-akpro.kwaipros.com
+az3-api-txpro.kwai-pro.com
+k-ulog.kwai-pro.com
+klink.kwai-pro.com
+sixinpic.kwai-pro.com
+tx-br-pic.kwai.net
+cloudflare-br-pic.kwai.net
+ak-sgp-pic.snackvideo.in
